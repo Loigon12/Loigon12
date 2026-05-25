@@ -98,6 +98,6 @@ Ingeniero de Sistemas y Desarrollador de Software enfocado en la creación de in
 ### Métricas de Desarrollo
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Lenguajes Principales" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Loigon12&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Loigon12&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Lenguajes Principales" />
 </div>
