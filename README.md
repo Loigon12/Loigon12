@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner de GitHub.png" alt="Banner"></img>
+  <img src="BANNER.png" alt="Banner"></img>
   <h1>Sebastián Londoño Medina</h1>
   <h3>Systems Engineer & Full-Stack Software Developer</h3>
   
