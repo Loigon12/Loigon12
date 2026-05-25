@@ -37,6 +37,18 @@ Ingeniero de Sistemas y Desarrollador de Software enfocado en la creación de in
   Construcción de una landing page profesional y un sistema de ventas. Se implementó un backend robusto utilizando Supabase para la gestión del inventario en tiempo real, operado a través de un panel de administración personalizado.
 </details>
 
+<details>
+  <summary><b>newyears</b> — <i>Landing Page - Campaña de Artista</i></summary>
+  <br>
+  Creación de ecosistema web para artista "newyears" basado en su estilo y diseño artistico mediante una pagina de aterrizaje como carta de presentación.
+</details>
+
+<details>
+  <summary><b>SNAKE</b> — <i>Videojuego Retro</i></summary>
+  <br>
+  Desarrollo de videojuego con JavaScript Vanilla del mitico juego SNAKE como practica de programación orientada a objetos (POO)
+</details>
+
 
 ---
 
