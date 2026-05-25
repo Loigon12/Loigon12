@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BANNER.png" alt="Banner"></img>
+  <img src="Amarillo y Blanco Departamento Tienda Reapertura Comercial Horizontal Cartel.png" alt="Banner"></img>
   
   <h3>Ingeniero en Sistemas & Desarrollador de Software Full-Stack</h3>
   
