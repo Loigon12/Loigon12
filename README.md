@@ -1,40 +1,50 @@
 <div align="center">
-  <!-- Reemplaza el enlace de la imagen con tu propio banner o eliminalo si prefieres algo minimalista -->
-  <img src="https://via.placeholder.com/1000x200?text=Sebastián+Londoño+Medina" alt="Banner" />
-  
   <h1>Sebastián Londoño Medina</h1>
-  <h3>Systems Engineer | Full-Stack Developer | Physics & Math Enthusiast</h3>
+  <h3>Systems Engineer & Full-Stack Software Developer</h3>
   
   <p>
-    <a href="https://portafolio-sebaslondono.vercel.app">🌐 Portafolio</a> | 
-    <a href="mailto:sebastianpersonal244@gmail.com">✉️ Contacto</a> | 
-    <a href="https://www.linkedin.com/in/tu-usuario-linkedin">🔗 LinkedIn</a>
+    <a href="https://portafolio-sebaslondono.vercel.app" target="_blank">Portafolio Web</a> • 
+    <a href="mailto:sebastianpersonal244@gmail.com">sebastianpersonal244@gmail.com</a> • 
+    <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">LinkedIn</a>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 Acerca de mí
+### Perfil Profesional
 
-Soy Ingeniero en Sistemas y Desarrollador de Software con base en Ibagué, Colombia. Mi enfoque combina la ingeniería de software con una sólida base técnica en física y métodos numéricos, lo que me permite abordar problemas complejos con lógica estructurada.
+Ingeniero de Sistemas y Desarrollador de Software enfocado en la creación de interfaces web limpias, sistemas backend robustos y soluciones empresariales escalables. Cuento con experiencia en el ciclo completo de desarrollo, desde la arquitectura y el diseño de bases de datos hasta la implementación de interfaces de usuario altamente funcionales y minimalistas.
 
-*   **Enfoque:** Desarrollo de aplicaciones web, sistemas backend robustos y soluciones empresariales (POS, simuladores financieros).
-*   **Interés Técnico:** Aplicación de métodos numéricos en Python, optimización de algoritmos y arquitectura de sistemas con Supabase.
-*   **Formación:** Estudiante de Ingeniería en la Universidad de Ibagué.
-*   **Pasión:** Me motiva transformar requisitos técnicos en interfaces limpias y funcionales, manteniendo siempre un código mantenible y eficiente.
+**Enfoque:** Desarrollo Full-Stack, Arquitectura de Sistemas, Bases de Datos en Tiempo Real. <br>
+**Ubicación:** Ibagué, Colombia.
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
-*   **FEGCON Web Platform:** Desarrollo del sitio web oficial para el Fondo de Empleados del Grupo Constructor del Tolima, incluyendo un simulador de crédito y CDAT.
-*   **dperfumes POS:** Sistema e-commerce con backend administrativo en Supabase para gestión de inventario en tiempo real.
-*   **Gauss Rocket:** Prototipo electromagnético para Física III, documentando el sistema de propulsión y lógica física.
-*   **Sistema POS Restaurante:** Aplicación Python para gestión de pedidos en mesas de restaurantes tipo "corrientazo".
+*(Haz clic en cada proyecto para ver los detalles)*
+
+<details>
+  <summary><b>FEGCON Web Platform</b> — <i>Plataforma Corporativa y Simulador Financiero</i></summary>
+  <br>
+  Desarrollo del sitio web oficial para el Fondo de Empleados del Grupo Constructor del Tolima. El núcleo del proyecto consistió en la integración de una interfaz dinámica que funciona como simulador de crédito y CDAT, traduciendo fórmulas financieras en código eficiente e interactivo.
+</details>
+
+<details>
+  <summary><b>dperfumes E-commerce</b> — <i>Tienda Online y Panel Administrativo</i></summary>
+  <br>
+  Construcción de una landing page profesional y un sistema de ventas. Se implementó un backend robusto utilizando Supabase para la gestión del inventario en tiempo real, operado a través de un panel de administración personalizado.
+</details>
+
+<details>
+  <summary><b>Sistema POS Restaurante</b> — <i>Software de Gestión Operativa</i></summary>
+  <br>
+  Aplicación de escritorio desarrollada íntegramente en Python para la gestión de pedidos en restaurantes. Incluye una interfaz estructurada para administrar simultáneamente hasta 20 mesas, optimizando el flujo de trabajo del personal.
+</details>
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+### Stack Tecnológico
 
 **Lenguajes de Programación**
 <br>
@@ -63,16 +73,16 @@ Soy Ingeniero en Sistemas y Desarrollador de Software con base en Ibagué, Colom
 
 ---
 
-### 🗃 &nbsp;Databases
+### Bases de Datos
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ---
 
-### 🧰 &nbsp;Version Control & Tools
+### Control de Versiones & Herramientas Adicionales
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -84,15 +94,11 @@ Soy Ingeniero en Sistemas y Desarrollador de Software con base en Ibagué, Colom
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
 ---
 
+### Métricas de Desarrollo
+
 <div align="center">
-  <sub>Construido con dedicación y código limpio.</sub>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Lenguajes Principales" />
 </div>
