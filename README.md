@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github.png" alt="Banner"></img>
+  <img src="screen.png" alt="Banner"></img>
   
   <h3>Ingeniero en Sistemas & Desarrollador de Software Full-Stack</h3>
   
