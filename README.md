@@ -107,7 +107,7 @@ Ingeniero de Sistemas y Desarrollador de Software enfocado en la creación de in
 
 ---
 
-### Métricas de Desarrollo
+### Métricas de Desarrollo (Estadisticas)
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Loigon12&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
